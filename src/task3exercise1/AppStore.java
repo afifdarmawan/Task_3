@@ -5,7 +5,7 @@ public class AppStore {
     // 1. Declare your private attributes here:
     // NIM : 1301154133
     // NAMA : Afif Darmawan
-	// Kelas : IF 39-07
+    // Kelas : IF 39-07
 	
     private Application appList[] = new Application[100];
     private int totalApp;

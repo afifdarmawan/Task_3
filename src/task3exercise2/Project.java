@@ -4,8 +4,8 @@ package task3exercise2;
 public class Project {
 
     // 1. Declare your private attributes here:
-    // NIM : 1103130047
-    // NAMA : Muhammad Zakaria Musa  
+    // NIM : 1301154357
+    // NAMA : Rinaldy Achmad Fauzy  
     //
     // Constructor initialize project name, 
     // instantiate array member with size of [5],
@@ -20,8 +20,8 @@ public class Project {
     //---------------------------------------------------------
     
     // 2. Declare your Constructor here:
-    // NIM : 1103130047
-    // NAMA : Muhammad Zakaria Musa 
+    // NIM : 1301154357
+    // NAMA : Rinaldy Achmad Fauzy 
     //
     //------------------- your code here-----------------------
     public Project(String projectName){
@@ -32,8 +32,8 @@ public class Project {
     
 
     // 3. Declare your Setter and Getter method here:
-    // NIM : 1103130047
-    // NAMA : Muhammad Zakaria Musa 
+    // NIM : 1301154357
+    // NAMA : Rinaldy Achmad Fauzy 
     //
     //------------------- your code here-----------------------
     public void setReleaseStatus(boolean releaseStatus) {
@@ -69,8 +69,8 @@ public class Project {
     
     //---------------------------------------------------------
     // 4. Declare method addMember( m : Member ) here:
-    // NIM : 1103130047
-    // NAMA : Muhammad Zakaria Musa 
+    // NIM : 1301154357
+    // NAMA : Rinaldy Achmad Fauzy 
     //
     // add an object Member m into array team member, then
     // increment integer nTeam+1
@@ -82,8 +82,8 @@ public class Project {
     }
     //---------------------------------------------------------
     // 5. Declare method releaseApp() here:
-    // NIM : 1103130047
-    // NAMA : Muhammad Zakaria Musa 
+    // NIM : 1301154357
+    // NAMA : Rinaldy Achmad Fauzy 
     //
     // set release status = true
     //
@@ -93,8 +93,8 @@ public class Project {
     }
     //---------------------------------------------------------
     // 6. Create method toString() : String here:
-    // NIM : 1103130047
-    // NAMA : Muhammad Zakaria Musa 
+    // NIM : 1301154357
+    // NAMA : Rinaldy Achmad Fauzy 
     //
     // returns String that contains Project name, number of team member,
     // and release status

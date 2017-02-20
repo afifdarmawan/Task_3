@@ -3,8 +3,8 @@ package task3exercise1;
 public class Application {
 
     // 1. Declare your private attributes here:
-    // NIM : 1103130047
-    // NAMA : Muhammad Zakaria Musa 
+    // NIM : 1301154357
+    // NAMA : Rinaldy Achmad Fauzy 
     //
     //------------------- your code here-----------------------
     
@@ -14,8 +14,8 @@ public class Application {
     //---------------------------------------------------------
     
     // 2. Declare Constructor here:
-    // NIM : 1103130047
-    // NAMA : Muhammad Zakaria Musa 
+    // NIM : 1301154357
+    // NAMA : Rinaldy Achmad Fauzy 
     //
     // Constructor initialize application name and size (MB)
     //
@@ -30,8 +30,8 @@ public class Application {
 
     //---------------------------------------------------------
     // 3. Declare your Setter and Getter method here:
-    // NIM : 1103130047
-    // NAMA : Muhammad Zakaria Musa
+    // NIM : 1301154357
+    // NAMA : Rinaldy Achmad Fauzy 
     //
     //------------------- your code here-----------------------
     public int getAppSize() {
@@ -44,8 +44,8 @@ public class Application {
     
     //---------------------------------------------------------
     // 4. Create method toString() : String here:
-    // NIM : 1103130047
-    // NAMA : Muhammad Zakaria Musa 
+    // NIM : 1301154357
+    // NAMA : Rinaldy Achmad Fauzy 
     //
     // returns String that contains application name and application size
     // 
